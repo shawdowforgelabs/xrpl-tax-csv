@@ -1,0 +1,18 @@
+Date Acquired,Date Sold,Description,Amount,Currency,Cost Basis,Proceeds,Gain/Loss,Taxable?,Fee (XRP),Price USD,Transaction Type,Hash,Notes
+2025-07-15,,Received 0.00000100 XRP,0.00000100,XRP,0.00,0.00,0.00,No,0.000011,2.9543,Payment,,Non-taxable event
+2025-07-15,,Received 365.66087900 XRP,365.66087900,XRP,"1,080.27",0.00,0.00,Yes,0.000010,2.9543,Payment,,Acquisition – cost basis recorded
+2025-06-14,,Received 0.00000100 XRP,0.00000100,XRP,0.00,0.00,0.00,No,0.000011,2.1489,Payment,,Non-taxable event
+2025-06-10,,Received 0.00000100 XRP,0.00000100,XRP,0.00,0.00,0.00,No,0.000011,2.3211,Payment,,Non-taxable event
+2025-06-06,,Received 0.00000100 XRP,0.00000100,XRP,0.00,0.00,0.00,No,0.000011,2.0970,Payment,,Non-taxable event
+2025-06-06,,"Received 1,003.62643600 XRP","1,003.62643600",XRP,"2,104.62",0.00,0.00,Yes,0.005000,2.0970,Payment,,Acquisition – cost basis recorded
+2025-05-10,,Received 0.00000100 XRP,0.00000100,XRP,0.00,0.00,0.00,No,0.000011,2.3426,Payment,,Non-taxable event
+2025-05-10,,Received 853.91636100 XRP,853.91636100,XRP,"2,000.39",0.00,0.00,Yes,0.005000,2.3426,Payment,,Acquisition – cost basis recorded
+2025-04-30,,Received 0.00000100 XRP,0.00000100,XRP,0.00,0.00,0.00,No,0.000011,0.6000,Payment,,Non-taxable event
+2025-04-30,,"Received 4,807.86561900 XRP","4,807.86561900",XRP,"2,884.72",0.00,0.00,Yes,0.005000,0.6000,Payment,,Acquisition – cost basis recorded
+2025-04-27,,Received 0.00000100 XRP,0.00000100,XRP,0.00,0.00,0.00,No,0.000011,0.6000,Payment,,Non-taxable event
+2025-04-27,,"Received 1,856.70487400 XRP","1,856.70487400",XRP,"1,114.02",0.00,0.00,Yes,0.005000,0.6000,Payment,,Acquisition – cost basis recorded
+2025-04-24,,Received 0.00000100 XRP,0.00000100,XRP,0.00,0.00,0.00,No,0.000011,0.6000,Payment,,Non-taxable event
+2025-04-24,,Received 946.53328400 XRP,946.53328400,XRP,567.92,0.00,0.00,Yes,0.005000,0.6000,Payment,,Acquisition – cost basis recorded
+2025-04-22,,Received 0.00000100 XRP,0.00000100,XRP,0.00,0.00,0.00,No,0.000011,0.6000,Payment,,Non-taxable event
+2025-04-22,,Received 307.13843200 XRP,307.13843200,XRP,184.28,0.00,0.00,Yes,0.005000,0.6000,Payment,,Acquisition – cost basis recorded
+SUMMARY,,Total transactions: 16,,,"9,936.22",,,,0.030109,,,,No taxable disposals. Cost basis recorded from acquisitions.
