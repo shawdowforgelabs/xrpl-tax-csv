@@ -23,7 +23,7 @@ pip install xrpl-py requests
 text3. **Important: Add your own XRPL address**  
 Open the file `xrpl_tax_exporter.py` in any text editor (Notepad, VS Code, etc.)  
 Look for this line near the top:
-ADDRESS = "rEHHkaRTfQQZTxDkbDNM7hKgqqPHxQTZ3z"
+ADDRESS = "ADD YOUR ADDRESS HERE"
 textReplace the example address with your own XRPL address (classic or X-address format).  
 Example:
 ADDRESS = "rYourAddressHere1234567890"
